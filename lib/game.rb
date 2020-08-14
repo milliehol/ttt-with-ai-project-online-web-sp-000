@@ -45,3 +45,5 @@ class Game
       puts "\n\n"
     end
   end
+
+end
